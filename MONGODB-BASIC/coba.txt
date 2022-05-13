@@ -1,0 +1,6 @@
+[
+    {nama: "Ahmad Zuhril Fahrizal",email: "ahmadzuhril1@gmail.com"},
+    {nama: "Andri Ariful Furqon",email: "andri22@gmail.com},
+    {nama: "Ahmad Nur Hidayah",email: "hidayah26@gmail.com"},
+    {nama: "Ariful Furqon",email: "riful20@gmail.com}
+]

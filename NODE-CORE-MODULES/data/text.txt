@@ -1,0 +1,1 @@
+hai apa kabar dunia secara asynchronous

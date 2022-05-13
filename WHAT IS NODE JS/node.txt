@@ -1,0 +1,26 @@
+apa itu node js ?
+node js juga bukan bahasa pemrograman
+node js adalah javascript runtime yang dibangun atau dibuat didalam javascript engine yaitu V8 
+
+Karakteristik Node Js:
+Arsitektur Node Js:
+
+apa itu runtime?
+runtime itu adalah sebuah kontext atau dimana kita menjalankan / mengeksekusi code kita 
+
+Ryan Dahl
+-> tahun 2009 membuat node js
+-> Software Dev @joyent
+-> github.com/ry
+-> alasan membuat node js : ingin membuat web server menggunakan event loop. bukan menggunakan thread
+
+REPL(Read, Eval, Print, Loop)
+untuk mendebug script code kita
+
+apa sih modules ?
+modules adalah sekumpulan code yang dapat digunakan kembali, dengan antarmuka yang terdefinisi
+
+NPM ?
+Node Package Manager
+
+Mongodb ?
